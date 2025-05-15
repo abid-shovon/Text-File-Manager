@@ -1,8 +1,11 @@
-#Text File Manager
+Text File Manager
+
 Features:
-     - View all existing .txt files in the current directory
-     - Read the content of any text file
-     - Rewrite existing files with new content
-     - Append additional content to existing files
-     - Create new .txt files with custom content
-     - Delete files after confirming the action
+1. Show all existing `.txt` files
+2. Read a file
+3. Rewrite a file
+4. Append data to an existing file
+5. Create a new file
+6. Delete a file
+7. Exit the program
+
